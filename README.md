@@ -1,2 +1,48 @@
-# desafio
-desafio do meu blog
+index.html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog de Tecnologia</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Blog de Tecnologia</h1>
+    <p>Novidades sobre IA, programação e inovação.</p>
+</header>
+
+<nav>
+    <a href="#">Início</a>
+    <a href="#">Artigos</a>
+    <a href="#">Contato</a>
+</nav>
+
+<main>
+    <article>
+        <h2>O crescimento da Inteligência Artificial</h2>
+        <p>
+            A Inteligência Artificial está transformando diversas áreas da sociedade,
+            desde a medicina até a educação. Ferramentas modernas ajudam pessoas e
+            empresas a automatizar tarefas e melhorar a produtividade.
+        </p>
+    </article>
+
+    <article>
+        <h2>Por que aprender programação?</h2>
+        <p>
+            Programar desenvolve o raciocínio lógico e abre oportunidades no mercado
+            de trabalho. Linguagens como HTML, CSS e JavaScript são ótimos pontos de
+            partida para quem deseja criar páginas web.
+        </p>
+    </article>
+</main>
+
+<footer>
+    <p>© 2026 - Blog de Tecnologia</p>
+</footer>
+
+</body>
+</html>
